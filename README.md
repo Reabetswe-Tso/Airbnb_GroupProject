@@ -24,11 +24,11 @@ Submission Date: 09 October 2024
 
 ## Database Setup  
 The relational database includes the following core tables:
-- Listing – Property details (type, location, amenities)
-- Review – Guest feedback and ratings
-- Price_History – Historical pricing data
-- Guest – Guest profile and booking behavior
-- Booking – Reservation data
+- Listing - Property details (type, location, amenities)
+- Review - Guest feedback and ratings
+- Price_History - Historical pricing data
+- Guest - Guest profile and booking behavior
+- Booking - Reservation data
 
 ### Entity Relationship Diagram (ERD)  
 <img width="872" height="688" alt="Screenshot (321)" src="https://github.com/user-attachments/assets/2e4ab629-f5a7-4c00-b3d3-f7800f078317" />
